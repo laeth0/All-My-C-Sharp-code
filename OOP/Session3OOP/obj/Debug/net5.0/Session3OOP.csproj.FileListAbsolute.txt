@@ -1,0 +1,16 @@
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\bin\Debug\net5.0\Session3OOP.exe
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\bin\Debug\net5.0\Session3OOP.deps.json
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\bin\Debug\net5.0\Session3OOP.runtimeconfig.json
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\bin\Debug\net5.0\Session3OOP.runtimeconfig.dev.json
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\bin\Debug\net5.0\Session3OOP.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\bin\Debug\net5.0\Session3OOP.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\obj\Debug\net5.0\Session3OOP.csproj.AssemblyReference.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\obj\Debug\net5.0\Session3OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\obj\Debug\net5.0\Session3OOP.AssemblyInfoInputs.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\obj\Debug\net5.0\Session3OOP.AssemblyInfo.cs
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\obj\Debug\net5.0\Session3OOP.csproj.CoreCompileInputs.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\obj\Debug\net5.0\Session3OOP.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\obj\Debug\net5.0\refint\Session3OOP.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\obj\Debug\net5.0\Session3OOP.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\obj\Debug\net5.0\Session3OOP.genruntimeconfig.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#3 OOP\Session 3\Session3OOP\Session3OOP\obj\Debug\net5.0\ref\Session3OOP.dll

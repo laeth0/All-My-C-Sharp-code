@@ -1,0 +1,15 @@
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\bin\Debug\net6.0\FinalAdvancedC#.exe
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\bin\Debug\net6.0\FinalAdvancedC#.deps.json
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\bin\Debug\net6.0\FinalAdvancedC#.runtimeconfig.json
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\bin\Debug\net6.0\FinalAdvancedC#.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\bin\Debug\net6.0\FinalAdvancedC#.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\obj\Debug\net6.0\FinalAdvancedC#.csproj.AssemblyReference.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\obj\Debug\net6.0\FinalAdvancedC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\obj\Debug\net6.0\FinalAdvancedC#.AssemblyInfoInputs.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\obj\Debug\net6.0\FinalAdvancedC#.AssemblyInfo.cs
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\obj\Debug\net6.0\FinalAdvancedC#.csproj.CoreCompileInputs.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\obj\Debug\net6.0\FinalAdvancedC#.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\obj\Debug\net6.0\refint\FinalAdvancedC#.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\obj\Debug\net6.0\FinalAdvancedC#.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\obj\Debug\net6.0\FinalAdvancedC#.genruntimeconfig.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#4 Advanced C#\Session 3\Demo\FinalAdvancedC#\FinalAdvancedC#\obj\Debug\net6.0\ref\FinalAdvancedC#.dll
